@@ -5,6 +5,7 @@ This Live Project Link [Create React App](https://github.com/facebook/create-rea
 ## which material I am using in this project:
 
  - React bootstrap for styling
+ - firebase for user authentication
 
 ### `npm start`
 
